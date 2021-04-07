@@ -1,3 +1,5 @@
 Estoy probando los cambios del documento para analizar el funcionamiento control de versiones.
 
 Modificamos el documento de la version 2.
+
+Yo DavidDanielBurgos soy un contribuyente del proyecto hyperblog perteneciente a DavidBurgos69
