@@ -6,4 +6,4 @@ En este archivo veras:
  * Imagenes cools
  * Archivos cools
  * Hecho por el increible buyo
- 
+ * Incluye ejemplos
