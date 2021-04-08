@@ -2,4 +2,6 @@ Estoy probando los cambios del documento para analizar el funcionamiento control
 
 Modificamos el documento de la version 2.
 
+Master 1
+
 Yo DavidDanielBurgos soy un contribuyente del proyecto hyperblog perteneciente a DavidBurgos69
