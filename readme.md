@@ -6,4 +6,9 @@ En este archivo veras:
  * Imagenes cools
  * Archivos cools
  * Hecho por el increible buyo
+<<<<<<< HEAD
  
+=======
+ * Incluye ejemplos
+ * Para todas las edades
+>>>>>>> readme-mejorado
